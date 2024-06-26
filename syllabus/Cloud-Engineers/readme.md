@@ -1,0 +1,84 @@
+| Week | Topic                                       | Subtopics                                                                                             | Practical Activities                |
+|------|---------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------|
+| 1    | Introduction to Cloud Computing             | - What is Cloud Computing? <br> - Benefits and challenges                                             | Discussion and case study review    |
+| 2    | Introduction to Virtualization              | - Concepts of virtualization <br> - Types of virtualization <br> - Benefits of virtualization         | Hands-on with virtual machines      |
+| 3    | Introduction to AWS                         | - Overview of AWS services <br> - AWS infrastructure <br> - Setting up an AWS account                 | Setup own AWS account               |
+| 4    | IAM and AWS CLI                             | - Introduction to users, groups, and policies                                                         | Create users and groups             |
+| 5    |                                             | - IAM policies                                                                                         | Create and apply IAM policies       |
+| 6    |                                             | - IAM Multi-Factor Authentication (MFA)                                                               | Setup MFA for IAM user              |
+| 7    |                                             | - AWS Access Key, CLI, SDK                                                                            | Hands-on AWS CLI and SDK usage      |
+| 8    |                                             | - AWS CLI setup on Mac & Windows, Linux                                                               | Setup AWS CLI on different OS       |
+| 9    |                                             | - AWS Cloud Shell                                                                                     | Practice using AWS Cloud Shell      |
+| 10   |                                             | - IAM Security Tools                                                                                  | Explore IAM security tools          |
+| 11   |                                             | - IAM Best Practices                                                                                  | Discuss IAM best practices          |
+| 12   |                                             | - IAM Summary                                                                                         | Review of IAM concepts              |
+| 13   | EC2 Fundamentals                            | - AWS Budget setup                                                                                    | Set up and manage AWS budget        |
+| 14   |                                             | - EC2 Basics                                                                                          | Create and manage EC2 instances     |
+| 15   |                                             | - EC2 Instance Types                                                                                  | Explore different instance types    |
+| 16   |                                             | - Purchase Options                                                                                    | Learn about EC2 purchase options    |
+| 17   |                                             | - Security Groups                                                                                     | Configure and apply security groups |
+| 18   |                                             | - SSH Overview                                                                                        | Learn SSH fundamentals              |
+| 19   |                                             | - How to SSH using Linux, Mac, or Windows                                                             | Hands-on SSH practice               |
+| 20   |                                             | - SSH Troubleshooting                                                                                 | Troubleshoot common SSH issues      |
+| 21   |                                             | - Methods to login into EC2                                                                           | Explore various login methods       |
+| 22   |                                             | - Placement Groups                                                                                    | Understand and use placement groups |
+| 23   |                                             | - Life Cycle Policy                                                                                   | Learn about and set up life cycle policies |
+| 24   |                                             | - Encryption                                                                                          | Implement and manage EC2 encryption |
+| 25   | EC2 Instance Storage                        | - EBS Overview                                                                                        | Learn about EBS features            |
+| 26   |                                             | - EBS Snapshots                                                                                       | Manage and implement EBS snapshots  |
+| 27   |                                             | - AMI Overview                                                                                        | Create and manage AMIs              |
+| 28   |                                             | - EC2 Instance Store                                                                                  | Explore the use of instance stores  |
+| 29   |                                             | - EBS Volume Types                                                                                    | Study different types of EBS volumes|
+| 30   |                                             | - EBS Multi-Attach                                                                                    | Set up and configure Multi-Attach   |
+| 31   |                                             | - EBS Encryption                                                                                      | Implement and understand encryption |
+| 32   |                                             | - Amazon EFS                                                                                          | Set up and utilize Amazon EFS       |
+| 33   |                                             | - EFS vs EBS                                                                                          | Compare EFS and EBS                 |
+| 34   | Elastic Load Balancer & Auto Scaling Group  | - What is High Availability & Scalability                                                             | Discussion on scalability concepts  |
+| 35   |                                             | - Different types of load balancers                                                                   | Study and compare load balancers    |
+| 36   |                                             | - SSL Encryptions                                                                                     | Implement SSL on load balancer      |
+| 37   |                                             | - Auto Scaling Groups                                                                                 | Set up and configure Auto Scaling Groups |
+| 38   |                                             | - Auto Scaling Group Policies                                                                         | Learn and implement scaling policies |
+| 39   | Route 53                                    | - What is DNS                                                                                         | Introduction to DNS systems         |
+| 40   |                                             | - Route 53 Overview                                                                                   | Explore features of Route 53        |
+| 41   |                                             | - Understanding Domains                                                                               | Learn about domain registration     |
+| 42   |                                             | - Registering a Domain                                                                                | Hands-on domain registration        |
+| 43   |                                             | - Hosted Zones                                                                                        | Set up and manage Hosted Zones      |
+| 44   |                                             | - Route 53 Records                                                                                    | Configure DNS records in Route 53   |
+| 45   |                                             | - Route 53 EC2 Setup                                                                                  | Link EC2 instances with Route 53    |
+| 46   |                                             | - Route 53 TTL                                                                                        | Understand and set TTL values       |
+| 47   |                                             | - Route 53 Record Types                                                                               | Explore different DNS record types  |
+| 48   |                                             | - Route 53 Routing Policies                                                                           | Implement various routing policies  |
+| 49   |                                             | - Route 53 Resolvers                                                                                  | Set up and utilize resolvers        |
+| 50   | Amazon S3                                   | - S3 Overview                                                                                         | Explore features of S3              |
+| 51   |                                             | - S3 Bucket Policies                                                                                  | Configure and manage bucket policies|
+| 52   |                                             | - S3 Security                                                                                         | Study security features of S3       |
+| 53   |                                             | - S3 Website Launch                                                                                   | Launch and configure a website on S3|
+| 54   |                                             | - S3 Versioning                                                                                       | Implement version control in S3     |
+| 55   |                                             | - S3 Replications                                                                                     | Set up replication between S3 buckets|
+| 56   |                                             | - S3 Storage Classes                                                                                  | Explore different storage classes   |
+| 57   |                                             | - S3 Life Cycle Rule                                                                                  | Configure lifecycle rules in S3     |
+| 58   |                                             | - S3 Event Notification                                                                               | Set up event notifications in S3    |
+| 59   |                                             | - S3 Performance                                                                                      | Optimize S3 for performance         |
+| 60   |                                             | - S3 Storage Lens                                                                                     | Use Storage Lens for insights       |
+| 61   |                                             | - S3 Batch Operations                                                                                 | Learn and use S3 batch operations   |
+| 62   |                                             | - S3 Glacier                                                                                          | Understand and use S3 Glacier       |
+| 63   |                                             | - S3 Encryption                                                                                       | Implement encryption in S3          |
+| 64   |                                             | - S3 MFA Delete                                                                                       | Enable MFA Delete on S3 buckets     |
+| 65   |                                             | - S3 Access Logs                                                                                      | Set up and analyze access logs      |
+| 66   |                                             | - Amazon S3 Pre-Signed URL                                                                            | Generate pre-signed URLs for S3      |
+| 67   |                                             | - S3 Glacier Vault Lock                                                                               | Implement vault lock in S3 Glacier  |
+| 68   |                                             | - S3 Access Point                                                                                     | Configure and use S3 Access Points  |
+| 69   | AWS CloudFront                              | - CloudFront Overview                                                                                 | Explore features of CloudFront      |
+| 70   |                                             | - CloudFront S3 Hands-on                                                                              | Integrate S3 with CloudFront        |
+| 71   |                                             | - CloudFront ALB as Origin                                                                            | Use ALB as origin for CloudFront    |
+| 72   |                                             | - CloudFront Geo Restriction                                                                          | Configure geo restrictions          |
+| 73   |                                             | - CloudFront Price Classes                                                                            | Study different pricing classes     |
+| 74   |                                             | - CloudFront Cache Invalidation                                                                       | Learn about cache invalidation      |
+| 75   | AWS Global Accelerator                      | - Global Accelerator Overview                                                                         | Explore features of Global Accelerator |
+| 76   |                                             | - Unicast and Anycast IP                                                                              | Understand IP address types and uses|
+| 77   |                                             | - Difference between CloudFront and Global Accelerator                                                | Compare CloudFront and Global Accelerator |
+| 78   | Data Migration                              | - Snow Family Overview (Snowcone, Snowball Edge, Snowmobile)                                          | Learn about AWS Snow Family devices |
+| 79   |                                             | - Edge Computing                                                                                      | Explore the concept and use cases of edge computing |
+| 80   | Amazon FSx                                  | - FSx for NetApp Ontap <br> - FSx for OpenZFS <br> - FSx for Windows File Server <br> - FSx for Lustre <br> - Storage Gateway <br> - TYPES OF STORAGE GATEWAYS | Learn about FSx and Storage Gateways, practical hands-on |
+| 81   | Hands-on each topic and project             | - Review and hands-on practice on all topics                                                          | Mini-project on each topic          |
+| 82   | Final Project                              | - Application of learned skills to a real-world scenario using AWS                                    | Final project presentation and demo |
