@@ -1,3 +1,6 @@
+**AWS Cloud Syllabus** 
+
+
 | Week | Topic                                       | Subtopics                                                                                             | Practical Activities                |
 |------|---------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------|
 | 1    | Introduction to Cloud Computing             | - What is Cloud Computing? <br> - Benefits and challenges                                             | Discussion and case study review    |
