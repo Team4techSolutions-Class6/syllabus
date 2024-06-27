@@ -1,3 +1,11 @@
+
+**AWS Cloud Syllabus** 
+
+
+We are excited to share the comprehensive course outline we will be covering as part of our Cloud Engineer training program. Each topic in our curriculum is designed to provide you with in-depth theoretical knowledge, hands-on experience, and practical projects to ensure you master the necessary skills. After looking at the course outline . you will see some of the roles you can get as a cloud engineer 
+
+
+
 | Week | Topic                                    | Subtopics                                                                                         | Practical Activities                                 |
 |------|------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | 1    | Introduction to Cloud Computing          | - What is Cloud Computing? <br> - Benefits and challenges                                          | Discussion and case study review                     |
@@ -114,3 +122,32 @@
 | 112  |                                          | - Amazon EKS Overview                                                                             | Explore and manage Amazon EKS                        |
 | 113  |                                          | - AWS App Runner                                                                                  | Deploy applications with AWS App Runner              |
 
+
+
+
+
+**Here is a list of jobs someone can pursue after completing this course outline**
+
+
+| Job Title                                  | Description                                                                                  | Annual Salary Range (USD) | Hourly Salary Range (USD) |
+|--------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------|---------------------------|
+| Cloud Engineer                             | Design, develop, and manage cloud infrastructure and services on AWS.                        | $90,000 - $140,000        | $45 - $70                 |
+| DevOps Engineer                            | Implement CI/CD pipelines, automate deployments, and ensure system reliability and scalability.| $95,000 - $150,000        | $48 - $75                 |
+| Cloud Solutions Architect                  | Design cloud solutions that meet business requirements, ensuring scalability and efficiency.  | $120,000 - $180,000       | $60 - $90                 |
+| Site Reliability Engineer (SRE)            | Maintain and improve system reliability, performance, and availability.                      | $100,000 - $160,000       | $50 - $80                 |
+| Cloud Security Engineer                    | Implement and manage security measures to protect cloud infrastructure and data.             | $100,000 - $160,000       | $50 - $80                 |
+| Cloud Infrastructure Engineer              | Manage and optimize cloud infrastructure components like VPCs, EC2 instances, and networking. | $90,000 - $140,000        | $45 - $70                 |
+| Data Engineer                              | Design, build, and manage data pipelines and databases in the cloud.                         | $95,000 - $150,000        | $48 - $75                 |
+| Cloud Developer                            | Develop and deploy cloud-based applications and services.                                    | $90,000 - $140,000        | $45 - $70                 |
+| System Administrator (Cloud)               | Manage cloud-based systems and services, ensuring optimal performance and uptime.            | $80,000 - $120,000        | $40 - $60                 |
+| Cloud Operations Engineer                  | Monitor and manage cloud operations, ensuring smooth and efficient cloud service delivery.   | $85,000 - $130,000        | $42 - $65                 |
+| Solutions Engineer                         | Provide technical solutions to clients, leveraging cloud services and infrastructure.        | $90,000 - $140,000        | $45 - $70                 |
+| Cloud Consultant                           | Advise organizations on cloud strategy, migration, and optimization.                         | $110,000 - $170,000       | $55 - $85                 |
+| Cloud Product Manager                      | Manage cloud service products, from development to deployment and ongoing improvements.      | $100,000 - $160,000       | $50 - $80                 |
+| Cloud Network Engineer                     | Design and manage cloud networking solutions, ensuring secure and efficient communication.   | $90,000 - $140,000        | $45 - $70                 |
+| Cloud Automation Engineer                  | Automate cloud infrastructure processes, improving efficiency and reducing manual workload.   | $95,000 - $150,000        | $48 - $75                 |
+| Cloud Support Engineer                     | Provide technical support and troubleshooting for cloud services and infrastructure.         | $75,000 - $110,000        | $38 - $55                 |
+| Cloud Analyst                              | Analyze cloud infrastructure performance and cost, providing insights and recommendations.   | $80,000 - $120,000        | $40 - $60                 |
+| Cloud Migration Specialist                 | Plan and execute migration of on-premises systems to the cloud.                              | $100,000 - $150,000       | $50 - $75                 |
+| Cloud Trainer/Instructor                   | Educate and train individuals or teams on cloud technologies and best practices.             | $80,000 - $130,000        | $40 - $65                 |
+| Cloud Compliance Specialist                | Ensure cloud infrastructure complies with industry standards and regulations.                | $90,000 - $140,000        | $45 - $70                 |
