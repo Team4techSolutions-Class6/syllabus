@@ -2,7 +2,7 @@
 **AWS Cloud Syllabus** 
 
 
-We are excited to share the comprehensive course outline we will be covering as part of our Cloud Engineer training program. Each topic in our curriculum is designed to provide you with in-depth theoretical knowledge, hands-on experience, and practical projects to ensure you master the necessary skills. After looking at the course outline . you will see some of the roles you can get as a cloud engineer 
+We are excited to share the comprehensive course outline we will cover as part of our Cloud Engineer training program. Each topic in our curriculum is designed to provide in-depth theoretical knowledge, hands-on experience, and practical projects to ensure you master the necessary skills. After looking at the course outline. you will see some of the roles you can get as a cloud engineer 
 
 
 
@@ -121,6 +121,75 @@ We are excited to share the comprehensive course outline we will be covering as 
 | 111  |                                          | - Amazon ECR                                                                                      | Setup and manage Amazon ECR                          |
 | 112  |                                          | - Amazon EKS Overview                                                                             | Explore and manage Amazon EKS                        |
 | 113  |                                          | - AWS App Runner                                                                                  | Deploy applications with AWS App Runner              |
+
+
+
+
+**Terraform Syllabus**
+
+Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp that allows you to define and provision data center infrastructure using a high-level configuration language. It enables the management of resources across various service providers such as AWS, Azure, and GCP.
+
+A cloud engineer needs Terraform skills to:
+
++ Automate Infrastructure: Efficiently automate the setup, update, and teardown of infrastructure, reducing manual errors.
++ Ensure Consistency: Maintain consistent environments across development, testing, and production.
++ Enhance Collaboration: Use version control to track changes and collaborate with teams effectively.
++ Increase Efficiency: Rapidly provision and manage resources, saving time and costs.
++ Scale Infrastructure: Easily scale infrastructure up or down based on demand.
+
+
+| Week | Topic                                    | Subtopics                                                                                         | Practical Activities                                 |
+|------|------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| 1    | Introduction to Terraform                | - What is Terraform? <br> - Declarative Code <br> - Providers <br> - Terraform Workflow (plan and apply workflow) <br> - Idempotency <br> - State Management <br> - Modularity <br> - Workspaces | Install Terraform <br> Initialize a Terraform working directory <br> Write a basic configuration |
+| 2    | Infrastructure As Code (IaC)             | - What is Infrastructure As Code? <br> - Benefits of IaC <br> - Automation <br> - Consistency <br> - Version Control <br> - Speed & Efficiency <br> - Cost Savings <br> - Scalability <br> - Risk Management/Disaster Recovery | Implement basic IaC principles using Terraform |
+| 3    | Terraform Use Cases                      | - Multi-Cloud Deployment (AWS, Azure, GCP, Alibaba Cloud) <br> - Disaster Recovery <br> - Cost Management | Deploy resources across multiple cloud providers using Terraform |
+| 4    | Installation of Terraform                | - Installation on macOS <br> - Installation on Linux (Ubuntu) <br> - Installation on Windows <br> - Verifying installation | Install and verify Terraform on different operating systems |
+| 5    | Terraform Workflow                       | - terraform init <br> - terraform validate <br> - terraform plan <br> - terraform apply <br> - terraform destroy | Practice running Terraform commands to manage resources |
+| 6    | Terraform Configuration Files            | - provider.tf <br> - main.tf <br> - variables.tf <br> - output.tf <br> - terraform.tfvars <br> - backend.tf <br> - version.tf <br> - data.tf | Create and manage Terraform configuration files |
+| 7    | Terraform Blocks                         | - Provider Block <br> - Resource Block <br> - Variable Block <br> - Output Block <br> - Data Block <br> - Module Block <br> - Terraform Block <br> - Locals Block <br> - Dynamic Block | Define and use various Terraform blocks |
+| 8    | Variables in Terraform                   | - Input Variables <br> - Output Variables <br> - Local Variables | Define and use different types of variables in Terraform |
+| 9    | Variable Data Types in Terraform         | - String <br> - Number <br> - Bool <br> - List <br> - Map <br> - Object <br> - Tuple <br> - Set <br> - Null | Define and use different data types in Terraform |
+| 10   | Terraform State Management               | - Remote Backend (S3, Terraform Cloud) <br> - State Locking (DynamoDB) <br> - Managing State Files | Configure and manage Terraform state files |
+| 11   | Key Terraform Files & Uses               | - main.tf <br> - variables.tf <br> - output.tf <br> - provider.tf <br> - terraform.tfvars <br> - backend.tf <br> - version.tf <br> - data.tf | Create and organize Terraform configuration files for different environments |
+| 12   | Terraform Directory Structure            | - Root Directory (Main Configurations) <br> - Environments (dev, stage, prod) <br> - Modules (ec2, vpc) | Organize Terraform project directories |
+| 13   | Functions in Terraform                   | - String Functions (format, lower, upper, length, substr, join, split) <br> - Numeric Functions (max, min, abs, ceil, floor) <br> - Collection Functions (element, concat, flatten, distinct, length, keys, values, lookup) <br> - Encoding Functions (base64encode, base64decode, jsonencode, jsondecode) <br> - File Functions (file, filebase64, fileset, templatefile) <br> - Network Functions (cidrsubnet, cidrhost, cidrnetmask, cidrsubnetmask) <br> - Date and Time Functions (formatdate, timestamp) | Use various functions to manipulate and analyze data in Terraform |
+| 14   | Terraform Modules                        | - Importance of Modules <br> - Local Modules <br> - Remote Modules (Terraform Registry, GitHub, Bitbucket) <br> - Best Practices for Modules | Create and use Terraform modules |
+| 15   | Terraform Workspaces                     | - Default Workspace <br> - Creating and Switching Workspaces <br> - Managing Multiple Environments | Manage multiple environments using Terraform workspaces |
+| 16   | Advanced Terraform Concepts              | - Terraform State Management <br> - Remote Backend Configuration <br> - Terraform State Locking <br> - CI/CD Integration with Terraform | Implement advanced Terraform concepts and integrate with CI/CD pipelines |
+
+
+
+
+**Ansible Syllabus**
+
+Ansible is an open-source automation tool used for configuration management, application deployment, and task automation. It uses simple, human-readable YAML syntax to describe automation jobs, making it easy to understand and use.
+
+A cloud engineer needs Ansible skills to:
+
++ Automate Configuration Management: Easily automate the configuration of servers and ensure consistency across multiple environments.
++ Simplify Application Deployment: Deploy applications consistently and efficiently across various environments.
++ Orchestrate Complex Workflows: Manage complex workflows and coordinate multi-step processes with ease.
++ Ensure Consistency: Maintain uniform configurations and deployments, minimizing discrepancies and errors.
++ Enhance Scalability: Quickly scale infrastructure up or down to meet changing demands
+
+| Week | Topic                                    | Subtopics                                                                                         | Practical Activities                                 |
+|------|------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| 1    | Introduction to Ansible                  | - What is Ansible? <br> - Benefits of Ansible <br> - Ansible vs. Other Automation Tools            | Install Ansible <br> Understand YAML syntax |
+| 2    | Ansible Architecture                     | - Ansible Core Components <br> - Inventory <br> - Modules <br> - Plugins <br> - Playbooks <br> - Configuration Management Database (CMDB) | Explore Ansible architecture <br> Create basic inventory and playbook |
+| 3    | Installation and Setup                   | - Installing Ansible on different OS <br> - Configuring Ansible <br> - Verifying Installation      | Install and configure Ansible on various OS <br> Run basic Ansible commands |
+| 4    | Ansible Ad-Hoc Commands                  | - Running Ad-Hoc Commands <br> - Common Ad-Hoc Commands <br> - Managing Multiple Systems          | Execute Ad-Hoc commands to manage systems |
+| 5    | Ansible Playbooks                        | - Introduction to Playbooks <br> - Writing Playbooks <br> - YAML Syntax <br> - Tasks <br> - Handlers <br> - Variables <br> - Conditionals <br> - Loops | Write and execute playbooks <br> Use variables, conditionals, and loops |
+| 6    | Ansible Roles                            | - Introduction to Roles <br> - Creating Roles <br> - Role Directory Structure <br> - Using Roles  | Create and use Ansible roles <br> Organize playbooks with roles |
+| 7    | Ansible Inventory                        | - Static Inventory <br> - Dynamic Inventory <br> - Inventory Groups <br> - Inventory Variables    | Create and manage static and dynamic inventories |
+| 8    | Ansible Modules                          | - Working with Modules <br> - Common Modules (file, copy, yum, service) <br> - Custom Modules     | Use various Ansible modules to manage infrastructure |
+| 9    | Ansible Variables and Facts              | - Defining Variables <br> - Using Variables in Playbooks <br> - Gathering Facts <br> - Registering Variables | Use variables and facts in Ansible playbooks |
+| 10   | Ansible Templates                        | - Jinja2 Templating <br> - Using Templates in Playbooks <br> - Template Module                   | Create and use Jinja2 templates in playbooks |
+| 11   | Ansible Handlers and Tags                | - Introduction to Handlers <br> - Using Handlers <br> - Using Tags in Playbooks                   | Implement handlers and tags in Ansible playbooks |
+| 12   | Ansible Vault                            | - Introduction to Ansible Vault <br> - Encrypting and Decrypting Files <br> - Using Vault in Playbooks | Secure sensitive data with Ansible Vault |
+| 13   | Ansible Galaxy                           | - Introduction to Ansible Galaxy <br> - Installing Roles from Galaxy <br> - Creating and Sharing Roles | Use Ansible Galaxy to install and share roles |
+| 14   | Ansible Tower                            | - Introduction to Ansible Tower <br> - Features of Ansible Tower <br> - Setting up Ansible Tower  | Install and configure Ansible Tower <br> Manage playbooks and inventory with Ansible Tower |
+| 15   | Ansible Best Practices                   | - Writing Maintainable Playbooks <br> - Organizing Project Structure <br> - Debugging and Troubleshooting | Apply best practices in Ansible projects <br> Debug and troubleshoot playbooks |
+| 16   | Advanced Ansible Topics                  | - Ansible for Cloud Provisioning (AWS, Azure, GCP) <br> - Network Automation <br> - Ansible for Containers (Docker, Kubernetes) | Automate cloud, network, and container tasks with Ansible |
 
 
 
