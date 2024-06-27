@@ -128,26 +128,25 @@ We are excited to share the comprehensive course outline we will be covering as 
 
 **Here is a list of jobs someone can pursue after completing this course outline**
 
-
-| Job Title                                  | Description                                                                                  | Annual Salary Range (USD) | Hourly Salary Range (USD) |
+| Job Title                                  | Description                                                                                  | Annual Salary Range (CAD) | Hourly Salary Range (CAD) |
 |--------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------|---------------------------|
-| Cloud Engineer                             | Design, develop, and manage cloud infrastructure and services on AWS.                        | $90,000 - $140,000        | $45 - $70                 |
-| DevOps Engineer                            | Implement CI/CD pipelines, automate deployments, and ensure system reliability and scalability.| $95,000 - $150,000        | $48 - $75                 |
-| Cloud Solutions Architect                  | Design cloud solutions that meet business requirements, ensuring scalability and efficiency.  | $120,000 - $180,000       | $60 - $90                 |
-| Site Reliability Engineer (SRE)            | Maintain and improve system reliability, performance, and availability.                      | $100,000 - $160,000       | $50 - $80                 |
-| Cloud Security Engineer                    | Implement and manage security measures to protect cloud infrastructure and data.             | $100,000 - $160,000       | $50 - $80                 |
-| Cloud Infrastructure Engineer              | Manage and optimize cloud infrastructure components like VPCs, EC2 instances, and networking. | $90,000 - $140,000        | $45 - $70                 |
-| Data Engineer                              | Design, build, and manage data pipelines and databases in the cloud.                         | $95,000 - $150,000        | $48 - $75                 |
-| Cloud Developer                            | Develop and deploy cloud-based applications and services.                                    | $90,000 - $140,000        | $45 - $70                 |
-| System Administrator (Cloud)               | Manage cloud-based systems and services, ensuring optimal performance and uptime.            | $80,000 - $120,000        | $40 - $60                 |
-| Cloud Operations Engineer                  | Monitor and manage cloud operations, ensuring smooth and efficient cloud service delivery.   | $85,000 - $130,000        | $42 - $65                 |
-| Solutions Engineer                         | Provide technical solutions to clients, leveraging cloud services and infrastructure.        | $90,000 - $140,000        | $45 - $70                 |
-| Cloud Consultant                           | Advise organizations on cloud strategy, migration, and optimization.                         | $110,000 - $170,000       | $55 - $85                 |
-| Cloud Product Manager                      | Manage cloud service products, from development to deployment and ongoing improvements.      | $100,000 - $160,000       | $50 - $80                 |
-| Cloud Network Engineer                     | Design and manage cloud networking solutions, ensuring secure and efficient communication.   | $90,000 - $140,000        | $45 - $70                 |
-| Cloud Automation Engineer                  | Automate cloud infrastructure processes, improving efficiency and reducing manual workload.   | $95,000 - $150,000        | $48 - $75                 |
-| Cloud Support Engineer                     | Provide technical support and troubleshooting for cloud services and infrastructure.         | $75,000 - $110,000        | $38 - $55                 |
-| Cloud Analyst                              | Analyze cloud infrastructure performance and cost, providing insights and recommendations.   | $80,000 - $120,000        | $40 - $60                 |
-| Cloud Migration Specialist                 | Plan and execute migration of on-premises systems to the cloud.                              | $100,000 - $150,000       | $50 - $75                 |
-| Cloud Trainer/Instructor                   | Educate and train individuals or teams on cloud technologies and best practices.             | $80,000 - $130,000        | $40 - $65                 |
-| Cloud Compliance Specialist                | Ensure cloud infrastructure complies with industry standards and regulations.                | $90,000 - $140,000        | $45 - $70                 |
+| Cloud Engineer                             | Design, develop, and manage cloud infrastructure and services on AWS.                        | $120,000 - $185,000       | $60 - $93                 |
+| DevOps Engineer                            | Implement CI/CD pipelines, automate deployments, and ensure system reliability and scalability.| $127,000 - $200,000       | $63 - $100                |
+| Cloud Solutions Architect                  | Design cloud solutions that meet business requirements, ensuring scalability and efficiency.  | $160,000 - $240,000       | $80 - $120                |
+| Site Reliability Engineer (SRE)            | Maintain and improve system reliability, performance, and availability.                      | $135,000 - $215,000       | $68 - $108                |
+| Cloud Security Engineer                    | Implement and manage security measures to protect cloud infrastructure and data.             | $135,000 - $215,000       | $68 - $108                |
+| Cloud Infrastructure Engineer              | Manage and optimize cloud infrastructure components like VPCs, EC2 instances, and networking. | $120,000 - $185,000       | $60 - $93                 |
+| Data Engineer                              | Design, build, and manage data pipelines and databases in the cloud.                         | $127,000 - $200,000       | $63 - $100                |
+| Cloud Developer                            | Develop and deploy cloud-based applications and services.                                    | $120,000 - $185,000       | $60 - $93                 |
+| System Administrator (Cloud)               | Manage cloud-based systems and services, ensuring optimal performance and uptime.            | $107,000 - $160,000       | $53 - $80                 |
+| Cloud Operations Engineer                  | Monitor and manage cloud operations, ensuring smooth and efficient cloud service delivery.   | $113,000 - $173,000       | $57 - $87                 |
+| Solutions Engineer                         | Provide technical solutions to clients, leveraging cloud services and infrastructure.        | $120,000 - $185,000       | $60 - $93                 |
+| Cloud Consultant                           | Advise organizations on cloud strategy, migration, and optimization.                         | $147,000 - $227,000       | $73 - $113                |
+| Cloud Product Manager                      | Manage cloud service products, from development to deployment and ongoing improvements.      | $135,000 - $215,000       | $68 - $108                |
+| Cloud Network Engineer                     | Design and manage cloud networking solutions, ensuring secure and efficient communication.   | $120,000 - $185,000       | $60 - $93                 |
+| Cloud Automation Engineer                  | Automate cloud infrastructure processes, improving efficiency and reducing manual workload.   | $127,000 - $200,000       | $63 - $100                |
+| Cloud Support Engineer                     | Provide technical support and troubleshooting for cloud services and infrastructure.         | $100,000 - $147,000       | $50 - $73                 |
+| Cloud Analyst                              | Analyze cloud infrastructure performance and cost, providing insights and recommendations.   | $107,000 - $160,000       | $53 - $80                 |
+| Cloud Migration Specialist                 | Plan and execute migration of on-premises systems to the cloud.                              | $135,000 - $200,000       | $68 - $100                |
+| Cloud Trainer/Instructor                   | Educate and train individuals or teams on cloud technologies and best practices.             | $107,000 - $173,000       | $53 - $87                 |
+| Cloud Compliance Specialist                | Ensure cloud infrastructure complies with industry standards and regulations.                | $120,000 - $185,000       | $60 - $93                 |
