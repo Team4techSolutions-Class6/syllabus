@@ -221,8 +221,8 @@ A cloud engineer needs Ansible skills to:
 | Job Title                                  | Description                                                                                  | Annual Salary Range (CAD) | Hourly Salary Range (CAD) |
 |--------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------|---------------------------|
 | Cloud Engineer                             | Design, develop, and manage cloud infrastructure and services on AWS.                        | $120,000 - $185,000       | $60 - $93                 |
-              |
-| Cloud Solutions Architect                  | Design cloud solutions that meet business requirements, ensuring scalability and efficiency.  | $160,000 - $240,000       | $80 - $120                |
+        
+| Cloud Solutions Architect                  | Design cloud solutions that meet business requirements, ensuring scalability and efficiency.  | $120,000 - $240,000       | $80 - $120                
 | Site Reliability Engineer (SRE)            | Maintain and improve system reliability, performance, and availability.                      | $135,000 - $215,000       | $68 - $108                |
 | Cloud Security Engineer                    | Implement and manage security measures to protect cloud infrastructure and data.             | $135,000 - $215,000       | $68 - $108                |
 | Cloud Infrastructure Engineer              | Manage and optimize cloud infrastructure components like VPCs, EC2 instances, and networking. | $120,000 - $185,000       | $60 - $93                 |
@@ -234,7 +234,7 @@ A cloud engineer needs Ansible skills to:
 | Cloud Consultant                           | Advise organizations on cloud strategy, migration, and optimization.                         | $147,000 - $227,000       | $73 - $113                |
 | Cloud Product Manager                      | Manage cloud service products, from development to deployment and ongoing improvements.      | $135,000 - $215,000       | $68 - $108                |
 | Cloud Network Engineer                     | Design and manage cloud networking solutions, ensuring secure and efficient communication.   | $120,000 - $185,000       | $60 - $93                 |
-| Cloud Automation Engineer                  | Automate cloud infrastructure processes, improving efficiency and reducing manual workload.   | $127,000 - $200,000       | $63 - $100                |
+| Cloud Automation Engineer                  | Automate cloud infrastructure processes, improving efficiency and reducing manual workload.   | $127,000 - $200,000       | $63 - $100                
 | Cloud Support Engineer                     | Provide technical support and troubleshooting for cloud services and infrastructure.         | $100,000 - $147,000       | $50 - $73                 |
 | Cloud Analyst                              | Analyze cloud infrastructure performance and cost, providing insights and recommendations.   | $107,000 - $160,000       | $53 - $80                 |
 | Cloud Migration Specialist                 | Plan and execute migration of on-premises systems to the cloud.                              | $135,000 - $200,000       | $68 - $100                |
