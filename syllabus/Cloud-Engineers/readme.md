@@ -221,7 +221,7 @@ A cloud engineer needs Ansible skills to:
 | Job Title                                  | Description                                                                                  | Annual Salary Range (CAD) | Hourly Salary Range (CAD) |
 |--------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------|---------------------------|
 | Cloud Engineer                             | Design, develop, and manage cloud infrastructure and services on AWS.                        | $120,000 - $185,000       | $60 - $93                 |
-| DevOps Engineer                            | Implement CI/CD pipelines, automate deployments, and ensure system reliability and scalability.| $127,000 - $200,000       | $63 - $100                |
+              |
 | Cloud Solutions Architect                  | Design cloud solutions that meet business requirements, ensuring scalability and efficiency.  | $160,000 - $240,000       | $80 - $120                |
 | Site Reliability Engineer (SRE)            | Maintain and improve system reliability, performance, and availability.                      | $135,000 - $215,000       | $68 - $108                |
 | Cloud Security Engineer                    | Implement and manage security measures to protect cloud infrastructure and data.             | $135,000 - $215,000       | $68 - $108                |
