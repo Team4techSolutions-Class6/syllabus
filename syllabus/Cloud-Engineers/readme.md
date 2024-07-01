@@ -1,3 +1,11 @@
+**Time Table**
+
+| Day       | Time (EST)      | Time (PST)      | Time (CET)      |
+|-----------|------------------|------------------|------------------|
+| Monday    | 7:00 PM - 10:00 PM | 4:00 PM - 7:00 PM  | 1:00 AM - 4:00 AM (Tuesday) |
+| Tuesday   | 7:00 PM - 10:00 PM | 4:00 PM - 7:00 PM  | 1:00 AM - 4:00 AM (Wednesday) |
+| Thursday  | 7:00 PM - 10:00 PM | 4:00 PM - 7:00 PM  | 1:00 AM - 4:00 AM (Friday) |
+
 
 **AWS Cloud Syllabus** 
 
