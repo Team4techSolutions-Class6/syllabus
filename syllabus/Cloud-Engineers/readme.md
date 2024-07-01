@@ -7,6 +7,19 @@
 | Thursday  | 7:00 PM - 10:00 PM | 4:00 PM - 7:00 PM  | 1:00 AM - 4:00 AM (Friday) |
 
 
+
+After the course, we will offer the following extra services:
+
+| Service                        | Description                                                                                  |
+|--------------------------------|----------------------------------------------------------------------------------------------|
+| Real World Projects            | Hands-on projects to apply your learning in real-world scenarios.                            |
+| Bootcamp                       | Intensive training sessions to deepen your skills.                                           |
+| Resume Setup                   | Assistance in creating a professional and effective resume.                                  |
+| LinkedIn Profiling             | Help in setting up and optimizing your LinkedIn profile for job searches.                    |
+| Interview Preparations & Support | Guidance and support to prepare for job interviews.                                        |
+| Mentorship                     | Ongoing mentorship from industry professionals.                                              |
+| Job Search Support (conditions apply) | Support in finding job opportunities with certain conditions.                         
+
 **AWS Cloud Syllabus** 
 
 
@@ -227,3 +240,14 @@ A cloud engineer needs Ansible skills to:
 | Cloud Migration Specialist                 | Plan and execute migration of on-premises systems to the cloud.                              | $135,000 - $200,000       | $68 - $100                |
 | Cloud Trainer/Instructor                   | Educate and train individuals or teams on cloud technologies and best practices.             | $107,000 - $173,000       | $53 - $87                 |
 | Cloud Compliance Specialist                | Ensure cloud infrastructure complies with industry standards and regulations.                | $120,000 - $185,000       | $60 - $93                 |
+
+
+
+For more information contact us 
+Team4tech Solutions
+www.team4techsolutions.com 
+647-641-4509
+info@team4techsolutions.com
+
+
+
