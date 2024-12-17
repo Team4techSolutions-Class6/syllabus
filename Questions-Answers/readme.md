@@ -29,15 +29,15 @@ WhatsApp: https://wa.me/6476414509
 ✅1b) When is the next class starting?
 
 
-Class7: September 28, 2024 - March 28, 2025
+Class8:Jan 28, 2025 - July 31, 2025
 
 # DevOps and Cloud Master Program Timetable
 
 | Day       | Time              |
 |-----------|-------------------|
-| Wednessday| 7 PM - 10 PM EST  |
-| Friday    | 7 PM - 10 PM EST  |
-| Saturday  | 10 AM - 1 PM EST  |
+| Mondayy   | 7 PM - 10 PM EST  |
+| Tuesday   | 7 PM - 10 PM EST  |
+| Thursda   | 10 AM - 1 PM EST  |
 
 Please use the following link to convert between time zones as needed: Use https://www.timeanddate.com/worldclock/converter.html
 
