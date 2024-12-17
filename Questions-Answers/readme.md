@@ -37,7 +37,7 @@ Class8:Jan 28, 2025 - July 31, 2025
 |-----------|-------------------|
 | Mondayy   | 7 PM - 10 PM EST  |
 | Tuesday   | 7 PM - 10 PM EST  |
-| Thursda   | 10 AM - 1 PM EST  |
+| Thursday   | 10 AM - 1 PM EST  |
 
 Please use the following link to convert between time zones as needed: Use https://www.timeanddate.com/worldclock/converter.html
 
